@@ -1,0 +1,11 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# Generated files
+*.tex
+*_cache/
